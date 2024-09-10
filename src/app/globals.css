@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+df-messenger {
+    --df-messenger-bot-message: #FF5900;
+    --df-messenger-button-titlebar-color: #FF5900;
+    --df-messenger-chat-background-color: #fafafa;
+    --df-messenger-font-color: white;
+    --df-messenger-send-icon: #FF5900;
+    --df-messenger-user-message: #00abc2;
+}
